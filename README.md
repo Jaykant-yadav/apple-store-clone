@@ -69,7 +69,7 @@ Hi, I'm **Jaykant Yadav**, a Computer Science Engineering student with a strong 
 
 I'm passionate about learning by doing and constantly building clone projects to understand real UI/UX patterns. I'm also preparing for software engineering roles as a fresher.
 
-📫 Let's connect on [LinkedIn](www.linkedin.com/in/ykantkumar) or explore my projects here on GitHub!
+📫 Let's connect on [LinkedIn](www.linkedin.com/in/jaykantkumar) or explore my projects here on GitHub!
 
 ---
 
