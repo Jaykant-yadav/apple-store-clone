@@ -1,4 +1,6 @@
-# Apple Store Clone (HTML & CSS Only)
+# Apple Store Clone (HTML & CSS Only) 
+#### 🔗 Live Demo -> [Click here](https://yourusername.github.io/apple-store-clone-html-css/)
+
 
 This is a **static clone** of the Apple official homepage (apple.com), created for **hands-on HTML and CSS practice**. The layout is designed for **laptop/desktop view only** and focuses purely on structure and styling — no JavaScript or responsiveness.
 
@@ -32,6 +34,7 @@ This is a **static clone** of the Apple official homepage (apple.com), created f
 ![Apple Store Clone Screenshot](./assets/apple-store-page5.png)
 ![Apple Store Clone Screenshot](./assets/apple-store-page6.png)
 ![Apple Store Clone Screenshot](./assets/apple-store-page7.png)
+
 ---
 
 ## 📂 Files Included
