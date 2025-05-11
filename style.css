@@ -1,0 +1,622 @@
+* {
+    margin: 0;
+    font-family: Text, Helvetica, Helvetica, Arial, sans-serif;
+    /* padding: 0; */
+}
+
+/************ Hearder  ****************/
+.head {
+    margin: 0;
+    background: #F7F7F7;
+    height: 3%;
+}
+
+/* top , left bottom, right */
+.apple-head-icon {
+    width: 4rem;
+}
+
+.h-logo {
+    height: 20px;
+    margin-top: 12px;
+}
+
+.head ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 13.625rem;
+    box-sizing: border-box;
+}
+
+.head-li li a {
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 530;
+    line-height: 4;
+    display: flex;
+    width: 5rem;
+    color: black;
+}
+
+.head-li-text {
+    margin-left: 30px;
+}
+
+.head-icon i {
+    margin-top: 16px;
+}
+
+.shopping-bag {
+    margin-left: 2.5rem;
+}
+
+/* *********** Offers ************ */
+.offers {
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4rem;
+    text-align: center;
+    font-size: 13.5px;
+    font-weight: 530;
+}
+
+.see-offers {
+    text-decoration: none;
+    color: blue;
+    cursor: pointer;
+}
+
+/* Sub-Header */
+.Sub-Header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 5.5%;
+    background-color: #F7F7F7;
+}
+
+.sub-header-pic img {
+    width: 40px;
+    border-radius: 20px 10px;
+}
+
+.sub-shop-text {
+    font-weight: 600;
+}
+
+.sub-shop-text .parah-text {
+    font-size: 48px;
+}
+
+.shop-text {
+    color: #6e6e73;
+}
+
+.shop-chat-section {
+    display: flex;
+}
+
+.shop-chat-sec {
+    margin-left: 20px;
+}
+
+.shop-chat-sec a {
+    text-decoration: none;
+    color: #06c;
+}
+
+.store-location {
+    display: flex;
+    margin-top: 5px;
+}
+
+.arrow-icon {
+    font-size: 0.8rem;
+    font-weight: bold;
+    color: #06c;
+}
+
+.store-location-icon {
+    font-size: 2.5rem;
+}
+
+.store-location-text {
+    margin-left: 20px;
+}
+
+.store-location-text a {
+    text-decoration: none;
+    color: #06c;
+}
+
+/* Products */
+.products-nav {
+    display: inline-flex;
+    justify-content: space-around;
+    padding: 65px;
+    background-color: #F7F7F7;
+}
+
+.products-ele {
+    text-align: center;
+    padding: 2.2%;
+}
+
+.p-img img {
+    width: 100%;
+}
+
+.products-ele p {
+    margin-top: 10px;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+/* Heading of Letest  */
+.ht-lt {
+    background-color: #F7F7F7;
+}
+
+.heading-of-letest {
+    display: flex;
+    margin-inline-start: 140px;
+    margin-left: 9.5rem;
+}
+
+.heading-of-letest h2 {
+    font-size: 28px;
+    margin-right: 0.5rem;
+}
+
+.heading-of-letest-paragrah {
+    color: #6e6e73;
+}
+
+/* Card Products Of Content */
+.card-product {
+    padding: 10px;
+    display: flex;
+    margin: 1rem 7.8rem;
+}
+
+.card-p-content {
+    display: inline-flex;
+    height: 30rem;
+    padding: 0rem 0.8rem;
+    box-shadow: 5px 5px 5px 5px rgba(253, 254, 253, 0.2);
+}
+
+.card-img img {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+    display: block;
+    border-radius: 18px;
+    position: relative;
+}
+
+.card-text-h {
+    text-align: start;
+    text-decoration: none;
+    position: relative;
+    bottom: 500px;
+    padding: 4.5rem 2rem;
+}
+
+.card-text-h a {
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.card-text-apple {
+    color: white;
+    background-image: linear-gradient(108deg, #0090f7 0, #ba62fc 34%, #f2416b 68%, #f55600 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    margin-top: 9px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.card-text-price {
+    color: #fff;
+    margin-top: 7px;
+}
+
+.icon-Hastag {
+    font-size: 9px;
+}
+
+/* Accessories.  */
+.heading-of-accessories {
+    display: flex;
+    margin-inline-start: 140px;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.card-accessories {
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-p-content-mother {
+    display: inline-flex;
+    height: 28rem;
+    box-shadow: 5px 5px 5px 5px rgba(253, 254, 253, 0.2);
+}
+
+.card-img-day img {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+    display: block;
+    border-radius: 18px;
+    position: relative;
+}
+
+.card-img-day {
+    width: 26rem;
+}
+
+.card-content {
+    text-align: start;
+    text-decoration: none;
+    position: relative;
+    bottom: 490px;
+    padding: 4.5rem 2rem;
+}
+
+.card-content h3 {
+    font-size: 12px;
+    color: #6e6e73;
+}
+
+.card-content p {
+    font-size: 1.7rem;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.card-access-content {
+    display: inline-flex;
+    height: 28rem;
+    padding: 0rem 0.8rem;
+    box-shadow: 5px 5px 5px 5px rgba(253, 254, 253, 0.2);
+    border-radius: 18px;
+    background-color: #fff;
+    width: 18.145rem;
+    justify-content: center;
+}
+
+.card-img-acess {
+    height: 13rem;
+    box-shadow: 5px 5px 5px 5px rgba(253, 254, 253, 0.2);
+}
+
+.card-img-acess img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative;
+    margin-top: 4rem;
+}
+
+.card-accessories-desc {
+    display: flex;
+    flex-direction: column;
+    height: 8.7647058824rem;
+    padding: 1.1764705882rem 0 0;
+    position: relative;
+}
+
+.category {
+    font-size: 12px;
+    font-weight: 600;
+    color: #b64400;
+    margin-bottom: 0.5rem;
+}
+
+.price-access p {
+    margin-top: 1rem;
+}
+
+.price-access {
+    margin-top: 4rem;
+    font-size: 14.5px;
+}
+
+/* The Apple Store difference */
+.apple-store {
+    justify-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem 5rem;
+}
+
+.app-store-diff {
+    background-color: #fff;
+    width: 15rem;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+.icon-diff {
+    height: 48px;
+    font-size: 38px;
+    color: #ff3c26;
+}
+
+.app-store-diff p {
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 1rem;
+}
+
+.customize-color {
+    color: #ff3c26;
+}
+
+/*  Help is here  */
+.card-product-help {
+    padding: 45px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card-help-content {
+    display: inline-flex;
+    height: 32rem;
+    width: 28.5rem;
+}
+
+.card-help-img img {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+    display: block;
+    border-radius: 18px;
+    position: relative;
+}
+
+.card-help-text {
+    text-align: start;
+    text-decoration: none;
+    position: relative;
+    bottom: 560px;
+    padding: 4.5rem 0 4.5rem 2rem;
+}
+
+.card-text-h a {
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.card-text-head {
+    color: #000000;
+    margin-top: 7px;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.icon-Hastag {
+    font-size: 9px;
+}
+
+.card-text-tag {
+    color: #6e6e73;
+    font-size: 10px;
+    font-weight: 600;
+}
+
+/* The Apple experience */
+.card-expre-text {
+    text-align: start;
+    text-decoration: none;
+    position: relative;
+    bottom: 530px;
+    padding: 4.5rem 0 4.5rem 2rem;
+}
+
+.card-ex-head {
+    font-size: 20px;
+}
+
+.card-ex-p {
+    font-size: 17.5px;
+    margin-top: 0.7rem;
+}
+
+.card-ex-tag {
+    color: #6e6e73;
+    font-size: 10px;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.card-exp-text {
+    text-align: start;
+    text-decoration: none;
+    position: relative;
+    bottom: 555px;
+    padding: 4.5rem 0 4.5rem 2rem;
+}
+
+/* Special stores */
+.heading-of-special-store {
+    display: flex;
+    margin-inline-start: 140px;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.card-special-store {
+    padding: 20px 120px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card-store-content {
+    display: inline-flex;
+    height: 30rem;
+    width: 25.5rem;
+}
+
+.card-help-img img {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+    display: block;
+    border-radius: 18px;
+    position: relative;
+}
+
+.card-store-text {
+    text-align: start;
+    text-decoration: none;
+    position: relative;
+    bottom: 515px;
+    padding: 4.5rem 0 4.5rem 2rem;
+}
+
+.card-text-h a {
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.card-store-head {
+    color: #000000;
+    margin-top: 7px;
+    font-weight: 600;
+    font-size: 29px;
+}
+
+.card-store-tag {
+    color: #6e6e73;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.s-icon-Hastag {
+    font-size: 25px;
+}
+
+/* Footer  */
+.quick-links {
+    padding: 4rem 0rem 2rem 8rem;
+}
+
+.q-head{
+    font-size: 20px;
+}
+
+.link-box-all {
+    display: flex;
+    margin-top: 1.8rem;
+}
+
+.Link-box {
+    border: 1px solid black;
+    border-radius: 18px;
+    padding: 10px;
+    margin-right: 15px;
+}
+
+.arrow-icon {
+    font-size: 10px;
+    color: #000;
+}
+
+/* footer notes */
+.footer-notes {
+    padding: 3rem 15rem;
+}
+
+.footer-notes-line {
+    font-size: 12px;
+    line-height: 1.2;
+    color: #6e6e73;
+}
+
+/* nav */
+.nav {
+    display: flex;
+}
+
+.apple-head-f-icon {
+    margin-right: 10px;
+}
+
+.icon-right, .text-store {
+    margin-top: 15px;
+    font-size: 14px;
+    margin-right: 1.5rem;
+}
+
+/* List */
+.footer-list{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.list-group li{
+    list-style: none;
+}
+
+.list-head {
+    margin-bottom: 8px;
+    margin-top: 15px;
+    font-size: 11px;
+    font-weight: 600;
+}
+
+.list-group li a {
+    font-size: 13px;
+    line-height: 2;
+    color: #6e6e73;
+}
+
+.list-group li a{
+    text-decoration: none;
+}
+
+.more-shop{
+    font-size: 13px;
+    color: #6e6e73;
+}
+
+/* bottom link */
+
+.links-f{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.5rem;
+    font-size: 13px;
+    color: #6e6e73;
+}
+
+.list-f-bottom, .list-li{
+    display: flex;
+}
+
+.list-li {
+    list-style: none;
+}
+
+.list-f-bottom li a{
+    margin-right: 20px;
+    text-decoration: none;
+    color: #6e6e73;
+}
