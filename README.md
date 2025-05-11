@@ -50,8 +50,6 @@ This is a **static clone** of the Apple official homepage (apple.com), created f
 1. Clone this repo:
    ```bash
    git clone https://github.com/yourusername/apple-store-clone-html-css.git
-
-
 ---
 
 ## ⚠️ Notes
@@ -62,9 +60,16 @@ This is a **static clone** of the Apple official homepage (apple.com), created f
 ---
 
 ## 🙋‍♂️ Author
+Hi, I'm **Jaykant Yadav**, a Computer Science Engineering student with a strong interest in **web development** and **software engineering**. I'm currently focusing on improving my skills in:
 
-**Jaykant Yadav**  
-CSE Student | Frontend Practice
+- 💻 HTML, CSS, JavaScript
+- 🧱 Frontend frameworks and responsive design
+- ⚙️ Java and Data Structures (DSA)
+- 🌐 Building real-world projects to sharpen hands-on skills
+
+I'm passionate about learning by doing and constantly building clone projects to understand real UI/UX patterns. I'm also preparing for software engineering roles as a fresher.
+
+📫 Let's connect on [LinkedIn](www.linkedin.com/in/ykantkumar) or explore my projects here on GitHub!
 
 ---
 
