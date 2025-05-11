@@ -19,11 +19,23 @@ This is a **static clone** of the Apple official homepage (apple.com), created f
 - HTML5  
 - CSS3  
 - Font Awesome (for icons)  
-- Bootstrap Icons  
+- Bootstrap Icons
 
 ---
 
+### 🖼️ Home Page
+
+![Apple Store Clone Screenshot](./assets/apple-store-page.png)
+![Apple Store Clone Screenshot](./assets/apple-store-page2.png)
+![Apple Store Clone Screenshot](./assets/apple-store-page3.png)
+![Apple Store Clone Screenshot](./assets/apple-store-page4.png)
+![Apple Store Clone Screenshot](./assets/apple-store-page5.png)
+![Apple Store Clone Screenshot](./assets/apple-store-page6.png)
+![Apple Store Clone Screenshot](./assets/apple-store-page7.png)
+---
+
 ## 📂 Files Included
+
 ├── index.html
 ├── style.css
 └── /assets (optional: images or icons)
